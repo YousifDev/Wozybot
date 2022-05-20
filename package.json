@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.7.0",
+    "@discordjs/voice": "^0.8.0",
+    "@distube/soundcloud": "^1.1.0",
+    "@distube/spotify": "^1.2.1",
+    "@distube/yt-dlp": "^1.0.2",
+    "@distube/ytdl-core": "^4.11.1",
+    "discord-player": "^5.2.2",
+    "discord.js": "^13.6.0",
+    "distube": "^3.3.2",
+    "express": "^4.17.3",
+    "fetch-url": "^1.0.9",
+    "ffmpeg-static": "^4.4.1",
+    "libsodium-wrappers": "^0.7.9",
+    "opusscript": "0.0.8"
+  },
+  "name": "musicwozy",
+  "version": "1.0.0",
+  "description": "YAH",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shanks",
+  "license": "ISC",
+  "devDependencies": {
+    "node": "^16.13.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YousifDev/Wozy.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/YousifDev/Wozy/issues"
+  },
+  "homepage": "https://github.com/YousifDev/Wozy#readme"
+}
